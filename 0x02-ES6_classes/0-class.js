@@ -1,5 +1,5 @@
 class car {
     constructor (name) {
-        this.name = name;
+        this.brand = name;
     }
 }
