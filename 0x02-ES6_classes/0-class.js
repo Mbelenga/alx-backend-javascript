@@ -3,3 +3,4 @@ class Car {
         this.brand = name;
     }
 }
+const my car = new car('Aston Martin');
